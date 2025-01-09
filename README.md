@@ -1,6 +1,6 @@
 # Encurtador de URLs
 
-O desafio será implementar um serviço que permite encurtar URLs longas para torná-las mais compactas e fáceis de
+O projeto será implementar um serviço que permite encurtar URLs longas para torná-las mais compactas e fáceis de
 compartilhar.
 
 ## Exemplo
